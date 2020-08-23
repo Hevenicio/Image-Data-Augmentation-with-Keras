@@ -2,6 +2,7 @@
 Apply image data augmentation in Keras.
 
 ## Project Structure
+**The project was carried out according to the following steps:**
 
 - 1: Introduction and Importing Libraries,
 - 2: Rotation,
